@@ -1,0 +1,16 @@
+html{
+  overflow-y:scroll;
+}
+body{
+  padding-top:50px;
+}
+.jumbotron{
+  background-image: url(http://www.themesltd.com/backgrounds/robot/dancing_robots.gif);
+  color: white;
+}
+#todo-list{
+  margin-bottom:30px;
+}
+#todo-form{
+  margin-bottom:50px;
+}
